@@ -9,8 +9,8 @@ def criar_planilha():
     aba['A1'] = "Teste"
     criar_planilha.save("meu_arquivo.xlsx")
 
-# Código para ler planilhas usando o Pandas
-#ler_planilhas = pd.read_excel()
-
 #A = Coluna
 #1 = linha
+
+# Código para ler planilhas usando o Pandas
+#ler_planilhas = pd.read_excel()
