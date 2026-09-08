@@ -8,3 +8,7 @@ Commit de presença do projeto - Joao
 ### Usar Biblilhotecas
 > pip instal openpyxl <br>
 > pip install pandas
+
+### Criar EXE.
+pip install pyinstaller
+python -m PyInstaller --onefile "nome do arquivo"
